@@ -145,7 +145,6 @@ var CrossValidate = function () {
    * @returns {void|*}
    */
 
-
   _createClass(CrossValidate, [{
     key: "testPartition",
     value: function testPartition(trainOpts, trainSet, testSet) {
